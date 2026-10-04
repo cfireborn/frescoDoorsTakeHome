@@ -8,7 +8,11 @@ location for every set, and returns validated JSON for review or downstream use.
 The repository includes an offline text-PDF parser, an optional OpenAI vision backend, local and
 hosted review applications, and a labeled corpus evaluation.
 
+Assignment brief: https://jet-jonquil-d17.notion.site/Fresco-Coding-Challenge-Hardware-Sets-313e090653228072b1e2d6ab4b437c0d
+
 ## Live Demo
+
+demo video at: https://www.loom.com/share/38ed926c8527478c8d86ee1106b53ce2
 
 The deployed result viewer is available at
 [cfireborn.github.io/fresco](https://cfireborn.github.io/fresco/).
