@@ -8,6 +8,23 @@ location for every set, and returns validated JSON for review or downstream use.
 The repository includes an offline text-PDF parser, an optional OpenAI vision backend, local and
 hosted review applications, and a labeled corpus evaluation.
 
+## Live Demo
+
+The deployed result viewer is available at
+[cfireborn.github.io/fresco](https://cfireborn.github.io/fresco/).
+
+The site is public and does not require an account. Upload a text-based PDF and the browser scans it
+for likely hardware schedule pages before extraction. Review components and page regions, then
+download JSON or export the complete component schedule as CSV for estimating and ordering.
+Provenance cards render enlarged pages from the attached PDF with the extracted regions highlighted.
+A manual page override remains under the advanced controls. PDF bytes and extracted text are not
+uploaded or stored. Existing extraction JSON can also be imported for review. Source edits render
+with strike formatting and are labeled as order exclusions or partial edits in the full table and CSV.
+
+The browser path deliberately returns `needs_review` for scans, missing set boundaries, truncated
+schedules, and other sources it cannot support safely. The Python CLI and Streamlit application
+remain the higher-coverage paths for corpus-tested extraction and optional vision processing.
+
 ## Description
 
 The extractor handles list schedules, tables, reordered columns, multi-page sets, `NOT USED` sets,
@@ -39,23 +56,6 @@ export action.
 
 ![Component review and CSV export action](media/component-export.gif)
 
-
-## Live Demo
-
-The deployed result viewer is available at
-[cfireborn.github.io/fresco](https://cfireborn.github.io/fresco/).
-
-The site is public and does not require an account. Upload a text-based PDF and the browser scans it
-for likely hardware schedule pages before extraction. Review components and page regions, then
-download JSON or export the complete component schedule as CSV for estimating and ordering.
-Provenance cards render enlarged pages from the attached PDF with the extracted regions highlighted.
-A manual page override remains under the advanced controls. PDF bytes and extracted text are not
-uploaded or stored. Existing extraction JSON can also be imported for review. Source edits render
-with strike formatting and are labeled as order exclusions or partial edits in the full table and CSV.
-
-The browser path deliberately returns `needs_review` for scans, missing set boundaries, truncated
-schedules, and other sources it cannot support safely. The Python CLI and Streamlit application
-remain the higher-coverage paths for corpus-tested extraction and optional vision processing.
 
 ## Project Assignment
 
