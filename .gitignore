@@ -1,0 +1,24 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+/build/
+/tmp/
+
+# Source documents may contain project or client information.
+samples/private/
+Fresco Coding Challenge (Hardware Sets)/
+evaluation/corpus_sources.local.json
+output/
+media/frames/*
+!media/frames/current-site/
+!media/frames/current-site/*.jpg
+
+# Ignore PDFs in Flat Hardware folder
+Flat_Hardware_Schedules/*.pdf

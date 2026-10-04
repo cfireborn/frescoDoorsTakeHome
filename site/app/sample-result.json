@@ -1,0 +1,3908 @@
+{
+  "source_file": "roselle-library-door-hardware.pdf",
+  "selected_pages": [
+    15,
+    16,
+    17
+  ],
+  "backend": "heuristic",
+  "outcome": "extracted",
+  "sets": [
+    {
+      "set_number": "1.1",
+      "description": "SLIDING AUTO / EXTR ENTR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 15,
+            "bbox": {
+              "x0": 0.09035464254901963,
+              "y0": 0.1099466717545457,
+              "x1": 0.82067558131456,
+              "y1": 0.14041945997272742
+            },
+            "line_start": 5,
+            "line_end": 8
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "1",
+          "description": "CYLINDER / CORE",
+          "catalog_number": "FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ SLIDING AUTO ENTRANCE MFR.",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.913
+    },
+    {
+      "set_number": "1.2",
+      "description": "CURTAINWALL / EXTR ENTR / SINGLE DOOR / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 15,
+            "bbox": {
+              "x0": 0.09035431597287616,
+              "y0": 0.14471946857272752,
+              "x1": 0.8932957800857295,
+              "y1": 0.20731353315454581
+            },
+            "line_start": 9,
+            "line_end": 16
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "3",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET",
+          "catalog_number": "L9077, 18 LEVEL, L ESCUTCHEON - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "CLASSROOM SECURITY W/ HOLDBACK FUNCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "ELECTRIC STRIKE",
+          "catalog_number": "6200 SERIES",
+          "mfr": "VON DUPRIN",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - EDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "GASKETING / SWEEP",
+          "catalog_number": "WEATHER GASKETING & SWEEP",
+          "mfr": "PEMKO / NGP / ZERO",
+          "finish": "BLACK",
+          "notes": "THRESHOLD PROVIDED BY CURTAINWALL ENTRANCE MFR.",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR COORDINATE W/ CURTAINWALL ENTRANCE MFR.",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.912
+    },
+    {
+      "set_number": "1.3",
+      "description": "CURTAINWALL / EXTR EGRESS / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 15,
+            "bbox": {
+              "x0": 0.09035333624444612,
+              "y0": 0.21161354175454591,
+              "x1": 0.8619467418355536,
+              "y1": 0.2742076063363641
+            },
+            "line_start": 17,
+            "line_end": 24
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "2",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "1",
+          "description": "PANIC HARDWARE",
+          "catalog_number": "35A MORTISE DEVICE, CONCEALED VERTICAL RODS, 18 LEVER, L ESCUTCHEON, HARDWIRED ALARM KIT W/ POWER SUPPLY - FSIC PRIMUS",
+          "mfr": "VON DUPRIN",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "PANIC / CLASSROOM FUNCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - EDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "GASKETING / SWEEP",
+          "catalog_number": "WEATHER GASKETING & SWEEP",
+          "mfr": "PEMKO / NGP / ZERO",
+          "finish": "BLACK",
+          "notes": "THRESHOLD PROVIDED BY CURTAINWALL ENTRANCE MFR. COORDINATE W/ CURTAINWALL ENTRANCE MFR.",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.916
+    },
+    {
+      "set_number": "1.4",
+      "description": "FIRE-RATED GL / INTR EGRESS / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 15,
+            "bbox": {
+              "x0": 0.09035039705915601,
+              "y0": 0.27850761493636417,
+              "x1": 0.8382213473892992,
+              "y1": 0.33307136042727326
+            },
+            "line_start": 25,
+            "line_end": 31
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "3",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "PANIC HARDWARE",
+          "catalog_number": "35A MORTISE DEVICE, CONCEALED VERTICAL RODS, 18 LEVER, L ESCUTCHEON",
+          "mfr": "VON DUPRIN",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "PANIC / PASSAGE FUNCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - EDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MAG. DOOR HOLDER",
+          "catalog_number": "SEM 7800 SERIES",
+          "mfr": "SENTRONIC",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "COORDINATE W/ FIRE ALARM SYSTEM",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES COORDINATE W/ FIRE-RATED GLASS ENTRANCE MFR.",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.913
+    },
+    {
+      "set_number": "1.5",
+      "description": "CURTAINWALL / BALCONY / EXTR ENTR / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 15,
+            "bbox": {
+              "x0": 0.09034958061879755,
+              "y0": 0.3373713690272734,
+              "x1": 0.8619423330576187,
+              "y1": 0.3758744763363637
+            },
+            "line_start": 32,
+            "line_end": 36
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "3",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET",
+          "catalog_number": "L9077, 18 LEVEL, L ESCUTCHEON - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "CLASSROOM SECURITY W/ HOLDBACK FUNCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - EDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "GASKETING / SWEEP",
+          "catalog_number": "WEATHER GASKETING & SWEEP",
+          "mfr": "PEMKO / NGP / ZERO",
+          "finish": "BLACK",
+          "notes": "THRESHOLD PROVIDED BY CURTAINWALL ENTRANCE MFR. COORDINATE W/ CURTAINWALL ENTRANCE MFR.",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.915
+    },
+    {
+      "set_number": "2.1",
+      "description": "HM DOOR/FRM / EXTR ENTR / SINGLE DOOR / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 15,
+            "bbox": {
+              "x0": 0.09035298806924001,
+              "y0": 0.3801744849363637,
+              "x1": 0.8932954319105237,
+              "y1": 0.442465518609091
+            },
+            "line_start": 37,
+            "line_end": 44
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "3",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET",
+          "catalog_number": "L9070, 18 LEVEL, L ESCUTCHEON - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "CLASSROOM FUNCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "ELECTRIC STRIKE",
+          "catalog_number": "6200 SERIES",
+          "mfr": "VON DUPRIN",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - EDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "GASKETING / SWEEP",
+          "catalog_number": "WEATHER GASKETING & SWEEP",
+          "mfr": "PEMKO / NGP / ZERO",
+          "finish": "BLACK",
+          "notes": null,
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "THRESHOLD",
+          "catalog_number": "EXTR. THRESHOLD",
+          "mfr": "PEMKO / NGP / ZERO",
+          "finish": null,
+          "notes": null,
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": null,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.915
+    },
+    {
+      "set_number": "2.2",
+      "description": "HM DOOR/FRM / EXTR ENTR / DBL DOORS / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 15,
+            "bbox": {
+              "x0": 0.09035298806924001,
+              "y0": 0.4470685581181821,
+              "x1": 0.893295431910524,
+              "y1": 0.5254202299727275
+            },
+            "line_start": 45,
+            "line_end": 54
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "5",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET",
+          "catalog_number": "L9070, 18 LEVEL, L ESCUTCHEON - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "CLASSROOM FUNCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "ELECTRIC STRIKE",
+          "catalog_number": "6200 SERIES",
+          "mfr": "VON DUPRIN",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - EDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "FLUSH BOLT",
+          "catalog_number": "FB45X",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "TOP & BOTTOM",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "GASKETING / SWEEP",
+          "catalog_number": "WEATHER GASKETING & SWEEP",
+          "mfr": "PEMKO / NGP / ZERO",
+          "finish": "BLACK",
+          "notes": "THRESHOLD PROVIDED BY CURTAINWALL ENTRANCE MFR.",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "THRESHOLD",
+          "catalog_number": "EXTR. THRESHOLD",
+          "mfr": "PEMKO / NGP / ZERO",
+          "finish": null,
+          "notes": null,
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": null,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.914
+    },
+    {
+      "set_number": "2.3",
+      "description": "HM DOOR/FRM / EXTR EGRESS / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 15,
+            "bbox": {
+              "x0": 0.09035298806923983,
+              "y0": 0.5300232694818184,
+              "x1": 0.8619463936603484,
+              "y1": 0.5926173340636366
+            },
+            "line_start": 55,
+            "line_end": 62
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "2",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "PANIC HARDWARE",
+          "catalog_number": "35A MORTISE DEVICE, CONCEALED VERTICAL RODS, 18 LEVER, L ESCUTCHEON, HARDWIRED ALARM KIT W/ POWER SUPPLY - FSIC PRIMUS",
+          "mfr": "VON DUPRIN",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "PANIC / CLASSROOM FUNCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - EDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "GASKETING / SWEEP",
+          "catalog_number": "WEATHER GASKETING & SWEEP",
+          "mfr": "PEMKO / NGP / ZERO",
+          "finish": "BLACK",
+          "notes": "THRESHOLD PROVIDED BY CURTAINWALL ENTRANCE MFR.",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "THRESHOLD",
+          "catalog_number": "EXTR. THRESHOLD",
+          "mfr": "PEMKO / NGP / ZERO",
+          "finish": null,
+          "notes": null,
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": null,
+            "notes": null
+          }
+        }
+      ],
+      "confidence": 0.915
+    },
+    {
+      "set_number": "2.4",
+      "description": "HM DOOR/FRM / INTR EGRESS / SINGLE DOOR / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 15,
+            "bbox": {
+              "x0": 0.09035102861237976,
+              "y0": 0.5969173426636367,
+              "x1": 0.9003985448155285,
+              "y1": 0.6756478031545456
+            },
+            "line_start": 63,
+            "line_end": 72
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "2",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "PANIC HARDWARE",
+          "catalog_number": "35A MORTISE DEVICE, CONCEALED VERTICAL RODS, QUIET ELECTRIC LATCH RETRACTION, 18 LEVER, L ESCUTCHEON, HARDWIRED ALARM KIT W/ POWER SUPPLY - FSIC PRIMUS",
+          "mfr": "VON DUPRIN",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "PANIC / CLASSROOM FUNCTION; COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - EDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.909
+    },
+    {
+      "set_number": "3.1",
+      "description": "OFFICE / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 15,
+            "bbox": {
+              "x0": 0.09035217162888137,
+              "y0": 0.687902373118182,
+              "x1": 0.79206574856422,
+              "y1": 0.7424661186090912
+            },
+            "line_start": 73,
+            "line_end": 79
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "3",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET",
+          "catalog_number": "L9056, 18 LEVER, A ROSE, 10-072 STRIKE, ADA THUMBTURN - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "OFFICE FUNCTION W/ AUTO UNLOCKING",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "SEE PLANS FOR WALL CONSTRUCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE AUTO. DOOR BOTTOM",
+          "catalog_number": "225S",
+          "mfr": "NGP",
+          "finish": "MILL ALUM / BLACK",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        }
+      ],
+      "confidence": 0.914
+    },
+    {
+      "set_number": "3.2",
+      "description": "CONFERENCE / SINGLE DOOR / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 15,
+            "bbox": {
+              "x0": 0.09035184505273802,
+              "y0": 0.7547964463000003,
+              "x1": 0.8932947787582367,
+              "y1": 0.8415572258818185
+            },
+            "line_start": 80,
+            "line_end": 90
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "2",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET ELEC. UNLOCKING",
+          "catalog_number": "L9092EU, 18 LEVER, A ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.86,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - HEDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "SEE PLANS FOR WALL CONSTRUCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE AUTO. DOOR BOTTOM",
+          "catalog_number": "225S",
+          "mfr": "NGP",
+          "finish": "MILL ALUM / BLACK",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.91
+    },
+    {
+      "set_number": "3.3",
+      "description": "WORKROOM / SINGLE DOOR / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 16,
+            "bbox": {
+              "x0": 0.090026309879413,
+              "y0": 0.10485926852222253,
+              "x1": 0.8929702233133414,
+              "y1": 0.17555940992222255
+            },
+            "line_start": 5,
+            "line_end": 13
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "2",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET ELEC. UNLOCKING",
+          "catalog_number": "L9092EU, 18 LEVER, A ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.86,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - HEDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "SEE PLANS FOR WALL CONSTRUCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.908
+    },
+    {
+      "set_number": "3.4",
+      "description": "WORKROOM / W/ AUTO-OP / SINGLE DOOR / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 16,
+            "bbox": {
+              "x0": 0.09002777947205778,
+              "y0": 0.18781397988585907,
+              "x1": 0.8929716929059867,
+              "y1": 0.2585141212858591
+            },
+            "line_start": 14,
+            "line_end": 22
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "2",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET ELEC. UNLOCKING",
+          "catalog_number": "L9092EU, 18 LEVER, A ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.86,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        },
+        {
+          "qty": "1",
+          "description": "AUTO OPERATOR",
+          "catalog_number": "SW100",
+          "mfr": "ASSA ABLOY",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "mfr": "ROCKWOOD",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.91
+    },
+    {
+      "set_number": "3.5",
+      "description": "RECEIVING / W/ AUTO-OP / DBL DOORS / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 16,
+            "bbox": {
+              "x0": 0.09002924906470255,
+              "y0": 0.2707686912494956,
+              "x1": 0.8929731624986312,
+              "y1": 0.365559789922223
+            },
+            "line_start": 23,
+            "line_end": 34
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "5",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET ELEC. UNLOCKING",
+          "catalog_number": "L9092EU, 18 LEVER, A ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.86,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        },
+        {
+          "qty": "1",
+          "description": "AUTO OPERATOR",
+          "catalog_number": "SW100",
+          "mfr": "ASSA ABLOY",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "FLUSH BOLT",
+          "catalog_number": "FB45X",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "TOP & BOTTOM",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "mfr": "ROCKWOOD",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "1",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "SEE PLANS FOR WALL CONSTRUCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "4",
+          "description": "PROTECTION PLATE",
+          "catalog_number": "8400 KICK PLATE",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.914
+    },
+    {
+      "set_number": "4.1",
+      "description": "STORAGE / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 16,
+            "bbox": {
+              "x0": 0.09003071865734733,
+              "y0": 0.3778143598858594,
+              "x1": 0.8233649006304611,
+              "y1": 0.4243477862858594
+            },
+            "line_start": 35,
+            "line_end": 40
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "3",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET",
+          "catalog_number": "L9081, 18 LEVER, A ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "STOREROOM FUNCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - HEDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "SEE PLANS FOR WALL CONSTRUCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        }
+      ],
+      "confidence": 0.914
+    },
+    {
+      "set_number": "4.2",
+      "description": "JANITOR / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 16,
+            "bbox": {
+              "x0": 0.09003137180963403,
+              "y0": 0.4366781139767686,
+              "x1": 0.8233662069350343,
+              "y1": 0.4912418594676777
+            },
+            "line_start": 41,
+            "line_end": 47
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "3",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET",
+          "catalog_number": "L9081, 818 LEVER (MILLED TACTILE WARNING), A ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "STOREROOM FUNCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - HEDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "SEE PLANS FOR WALL CONSTRUCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "PROTECTION PLATE",
+          "catalog_number": "8400 MOP PLATE",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        }
+      ],
+      "confidence": 0.917
+    },
+    {
+      "set_number": "4.3",
+      "description": "UTILITIES / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 16,
+            "bbox": {
+              "x0": 0.0900326781142074,
+              "y0": 0.5035721871585869,
+              "x1": 0.8233675132396079,
+              "y1": 0.5501056135585869
+            },
+            "line_start": 48,
+            "line_end": 53
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "3",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET",
+          "catalog_number": "L9081, 818 LEVER (MILLED TACTILE WARNING), A ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "STOREROOM FUNCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - HEDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "PROTECTION PLATE",
+          "catalog_number": "8400 KICK & MOP PLATE",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        }
+      ],
+      "confidence": 0.917
+    },
+    {
+      "set_number": "4.4",
+      "description": "SINGLE DOOR / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 16,
+            "bbox": {
+              "x0": 0.09003398441878079,
+              "y0": 0.5624359412494959,
+              "x1": 0.8929778978527096,
+              "y1": 0.6331360826494961
+            },
+            "line_start": 54,
+            "line_end": 62
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "2",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "MORTISE LOCKSET ELEC. UNLOCKING",
+          "catalog_number": "L9092EU, 818 LEVER (MILLED TACTILE WARNING), ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - HEDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "SEE PLANS FOR WALL CONSTRUCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.907
+    },
+    {
+      "set_number": "4.5",
+      "description": "SINGLE DOOR / DBL DOORS / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 16,
+            "bbox": {
+              "x0": 0.09003545401142557,
+              "y0": 0.6453906526131324,
+              "x1": 0.8929793674453547,
+              "y1": 0.7321514321949506
+            },
+            "line_start": 63,
+            "line_end": 73
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "5",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET ELEC. UNLOCKING",
+          "catalog_number": "L9092EU, 18 LEVER, A ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.86,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - HEDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "FLUSH BOLT",
+          "catalog_number": "FB45X",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "TOP & BOTTOM",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "mfr": "ROCKWOOD",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "4",
+          "description": "PROTECTION PLATE",
+          "catalog_number": "8400 KICK PLATE",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.913
+    },
+    {
+      "set_number": "4.6",
+      "description": "SINGLE DOOR / DBL DOORS / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 16,
+            "bbox": {
+              "x0": 0.09003692360407033,
+              "y0": 0.744406002158587,
+              "x1": 0.8929808370379994,
+              "y1": 0.8311667817404053
+            },
+            "line_start": 74,
+            "line_end": 84
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "5",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "MORTISE LOCKSET ELEC. UNLOCKING",
+          "catalog_number": "L9092EU, 818 LEVER (MILLED TACTILE WARNING), ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - HEDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "FLUSH BOLT",
+          "catalog_number": "FB45X",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "TOP & BOTTOM",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "mfr": "ROCKWOOD",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "4",
+          "description": "PROTECTION PLATE",
+          "catalog_number": "8400 KICK PLATE",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.912
+    },
+    {
+      "set_number": "4.7",
+      "description": "STORAGE / DBL DOORS",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 16,
+            "bbox": {
+              "x0": 0.09003839319671511,
+              "y0": 0.8434213517040416,
+              "x1": 0.8233725751698283,
+              "y1": 0.9060154162858598
+            },
+            "line_start": 85,
+            "line_end": 92
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "6",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET",
+          "catalog_number": "L9081, 18 LEVER, A ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "STOREROOM FUNCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "SURFACE CLOSER",
+          "catalog_number": "4040XP - HEDA ARM - METAL COVER",
+          "mfr": "LCN",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "EXTRA DUTY ARM W/ HOLD OPEN, METAL COVER",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "FLUSH BOLT",
+          "catalog_number": "FB45X",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "TOP & BOTTOM",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "mfr": "ROCKWOOD",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "4",
+          "description": "PROTECTION PLATE",
+          "catalog_number": "8400 KICK PLATE",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        }
+      ],
+      "confidence": 0.919
+    },
+    {
+      "set_number": "5.1",
+      "description": "STUDY ROOM / SINGLE DOOR / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 17,
+            "bbox": {
+              "x0": 0.08591779680751757,
+              "y0": 0.10727507660303061,
+              "x1": 0.8888600773607297,
+              "y1": 0.17789946027575798
+            },
+            "line_start": 5,
+            "line_end": 13
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "2",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HW MORTISE HINGE",
+          "catalog_number": "5BB1HW 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET ELEC. UNLOCKING",
+          "catalog_number": "L9092EU, 18 LEVER, A ROSE, 10-072 STRIKE - FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "ELECTRIC UNLOCKING FUNCTION; COORDINATE W/ OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.86,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        },
+        {
+          "qty": "1",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "SEE PLANS FOR WALL CONSTRUCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR PROVIDE FLOOR STOP @ DOOR 223",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.907
+    },
+    {
+      "set_number": "6.1",
+      "description": "STUDY ROOM / DEMOUNTABLE / GL ENTRANCE / SINGLE DOOR / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 17,
+            "bbox": {
+              "x0": 0.08591665379101567,
+              "y0": 0.18219946887575808,
+              "x1": 0.8888581179038693,
+              "y1": 0.2525208216393945
+            },
+            "line_start": 14,
+            "line_end": 22
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "2",
+          "description": "PIVOT HINGE",
+          "catalog_number": "3/4\" OFFSET PIVOT HINGES",
+          "mfr": "ALUR",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "PROVIDED BY ALUR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "GLASS PATCH MORTISE LOCKSET",
+          "catalog_number": "ND70 GLASS PATCH CYLINDRICAL LOCKSET, 19L LEVER (COORDINATE CORE W/ OTHER TRADES)",
+          "mfr": "ALUR",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "CLASSROOM FUNCTION; PROVIDED BY ALUR (COORDINATE KEYING/CORE W/ OTHER TRADES)",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.86,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        },
+        {
+          "qty": "1",
+          "description": "CYLINDER / CORE",
+          "catalog_number": "FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ ALUR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "ELECTRIC STRIKE",
+          "catalog_number": "3000 SERIES",
+          "mfr": "TRINE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ ALUR & OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "OH CLOSER",
+          "catalog_number": "CONCEALED OVERHEAD CLOSER W/ 90DEG. H.O.",
+          "mfr": "ALUR",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "PROVIDED BY ALUR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "mfr": "ROCKWOOD",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CTRL",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.913
+    },
+    {
+      "set_number": "6.2",
+      "description": "TEEN / DEMOUNTABLE / GL ENTRANCE / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 17,
+            "bbox": {
+              "x0": 0.08591632721487219,
+              "y0": 0.2571238611484854,
+              "x1": 0.7173868099049284,
+              "y1": 0.3036572875484856
+            },
+            "line_start": 23,
+            "line_end": 28
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "2",
+          "description": "PIVOT HINGE",
+          "catalog_number": "3/4\" OFFSET PIVOT HINGES",
+          "mfr": "ALUR",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "PROVIDED BY ALUR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "GLASS PATCH MORTISE LOCKSET",
+          "catalog_number": "ND70 GLASS PATCH CYLINDRICAL LOCKSET, 19L LEVER (COORDINATE CORE W/ OTHER TRADES)",
+          "mfr": "ALUR",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "PROVIDED BY ALUR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.86,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "CYLINDER / CORE",
+          "catalog_number": "FSIC PRIMUS",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ ALUR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "OH CLOSER",
+          "catalog_number": "CONCEALED OVERHEAD CLOSER W/ 90DEG. H.O.",
+          "mfr": "ALUR",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "PROVIDED BY ALUR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "mfr": "ROCKWOOD",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        }
+      ],
+      "confidence": 0.916
+    },
+    {
+      "set_number": "7.1",
+      "description": "MAKERSPACE / ALL-GLASS / ENTRANCE / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 17,
+            "bbox": {
+              "x0": 0.08591763351944558,
+              "y0": 0.30795729614848555,
+              "x1": 0.8035905629524391,
+              "y1": 0.3544907225484857
+            },
+            "line_start": 29,
+            "line_end": 34
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "2",
+          "description": "PIVOT HINGE",
+          "catalog_number": "CLEAR VIEW PIVOT HINGE",
+          "mfr": "CRL",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HANDLE SET",
+          "catalog_number": "GLASS-MOUNT HANDLES DB100 W/ KEYED CYLINDER - FSIC PRIMUS",
+          "mfr": "BLUMCRAFT",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL HEIGHT 'F' STYLE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "OH CLOSER",
+          "catalog_number": "CONCEALED OVERHEAD CLOSER",
+          "mfr": "CRL",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "1",
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "mfr": "ROCKWOOD",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ ALL-GLASS ENTRANCE MFR.",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "set_number": "7.2",
+      "description": "PROGRAM RM / ALL-GLASS / ENTRANCE / DBL DOORS",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 17,
+            "bbox": {
+              "x0": 0.08591649050294382,
+              "y0": 0.35879073114848575,
+              "x1": 0.8035894199359374,
+              "y1": 0.40532415754848566
+            },
+            "line_start": 35,
+            "line_end": 40
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "4",
+          "description": "PIVOT HINGE",
+          "catalog_number": "CLEAR VIEW PIVOT HINGE",
+          "mfr": "CRL",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "2",
+          "description": "HANDLE SET",
+          "catalog_number": "GLASS-MOUNT HANDLES DB100 W/ KEYED CYLINDER - FSIC PRIMUS",
+          "mfr": "BLUMCRAFT",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL HEIGHT 'F' STYLE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "OH CLOSER",
+          "catalog_number": "CONCEALED OVERHEAD CLOSER",
+          "mfr": "CRL",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "2",
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "mfr": "ROCKWOOD",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ ALL-GLASS ENTRANCE MFR.",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "set_number": "7.3",
+      "description": "STUDY ROOM / ALL-GLASS / ENTRANCE / SINGLE DOOR / CARD READER",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 17,
+            "bbox": {
+              "x0": 0.08591534748644201,
+              "y0": 0.40962416614848574,
+              "x1": 0.888858117903869,
+              "y1": 0.4802485498212131
+            },
+            "line_start": 41,
+            "line_end": 49
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "2",
+          "description": "PIVOT HINGE",
+          "catalog_number": "CLEAR VIEW PIVOT HINGE",
+          "mfr": "CRL",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "1",
+          "description": "HANDLE SET",
+          "catalog_number": "GLASS-MOUNT HANDLES DB100 W/ KEYED CYLINDER - FSIC PRIMUS",
+          "mfr": "BLUMCRAFT",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL HEIGHT 'F' STYLE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "OH CLOSER",
+          "catalog_number": "CONCEALED OVERHEAD CLOSER",
+          "mfr": "CRL",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "1",
+          "description": "ELECTRIC STRIKE",
+          "catalog_number": "6200 SERIES",
+          "mfr": "VON DUPRIN",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ OWNER'S SECUIRTY VENDOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "mfr": "ROCKWOOD",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "DOOR ACCESS CONTROL DEVICES",
+          "catalog_number": "CARD READER / DPS / POWER SUPPLY / ETC (BY OTHERS)",
+          "mfr": null,
+          "finish": null,
+          "notes": "PREP/ROUGH-IN DOORS & FRAMES FOR DEVICES TO BE PROVIDED & INSTALLED BY OWNER'S SECURITY VENDOR COORDINATE W/ ALL-GLASS ENTRANCE MFR.",
+          "confidence": {
+            "qty": null,
+            "description": 0.86,
+            "catalog_number": 0.91,
+            "mfr": null,
+            "finish": null,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.917
+    },
+    {
+      "set_number": "7.4",
+      "description": "YOUTH ENTR / ALL-GLASS / ENTRANCE / DBL DOORS",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 17,
+            "bbox": {
+              "x0": 0.0859163272148721,
+              "y0": 0.4845485584212131,
+              "x1": 0.8035892566478656,
+              "y1": 0.531081984821213
+            },
+            "line_start": 50,
+            "line_end": 55
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "4",
+          "description": "PIVOT HINGE",
+          "catalog_number": "CLEAR VIEW PIVOT HINGE",
+          "mfr": "CRL",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "2",
+          "description": "HANDLE SET",
+          "catalog_number": "GLASS-MOUNT FULL-HEIGHT LADDER PULLS",
+          "mfr": "CRL",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL HEIGHT 'F' STYLE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "FLOOR OPERATOR IN-GROUND",
+          "catalog_number": "SW200i-IG IN-GROUND SWING DOOR OPERATOR W/ WAVE TO OPEN ACUATORS",
+          "mfr": "ASSA ABLOY",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.86,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "2",
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "mfr": "ROCKWOOD",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ ALL-GLASS ENTRANCE MFR.",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.917
+    },
+    {
+      "set_number": "7.5",
+      "description": "MTG / EGRESS / ALL-GLASS / ENTRANCE / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 17,
+            "bbox": {
+              "x0": 0.0859145310460837,
+              "y0": 0.5353819934212132,
+              "x1": 0.8035874604790775,
+              "y1": 0.5819154198212132
+            },
+            "line_start": 56,
+            "line_end": 61
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "2",
+          "description": "PIVOT HINGE",
+          "catalog_number": "CLEAR VIEW PIVOT HINGE",
+          "mfr": "CRL",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "1",
+          "description": "PANIC HARDWARE",
+          "catalog_number": "GLASS-MOUNT PANIC DEVICE PA100 W/ KEYED CYLINDER - FSIC PRIMUS",
+          "mfr": "BLUMCRAFT",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL HEIGHT 'F' STYLE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "OH CLOSER",
+          "catalog_number": "CONCEALED OVERHEAD CLOSER",
+          "mfr": "CRL",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "1",
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "mfr": "ROCKWOOD",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ ALL-GLASS ENTRANCE MFR.",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "set_number": "7.6",
+      "description": "MTG / EGRESS / ALL-GLASS / ENTRANCE / DBL DOORS",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 17,
+            "bbox": {
+              "x0": 0.0859127348772952,
+              "y0": 0.5862154284212131,
+              "x1": 0.8035856643102887,
+              "y1": 0.6327488548212133
+            },
+            "line_start": 62,
+            "line_end": 67
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "4",
+          "description": "PIVOT HINGE",
+          "catalog_number": "CLEAR VIEW PIVOT HINGE",
+          "mfr": "CRL",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "2",
+          "description": "PANIC HARDWARE",
+          "catalog_number": "GLASS-MOUNT PANIC DEVICE PA100 W/ KEYED CYLINDER - FSIC PRIMUS",
+          "mfr": "BLUMCRAFT",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL HEIGHT 'F' STYLE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.84,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "OH CLOSER",
+          "catalog_number": "CONCEALED OVERHEAD CLOSER",
+          "mfr": "CRL",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "2",
+          "description": "FLOOR STOP",
+          "catalog_number": "446",
+          "mfr": "ROCKWOOD",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ ALL-GLASS ENTRANCE MFR.",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.82
+          }
+        }
+      ],
+      "confidence": 0.92
+    },
+    {
+      "set_number": "8.1",
+      "description": "SINGLE-USER / RESTROOM / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 17,
+            "bbox": {
+              "x0": 0.08590995898007674,
+              "y0": 0.6370488634212133,
+              "x1": 0.878950516182234,
+              "y1": 0.6996429280030314
+            },
+            "line_start": 68,
+            "line_end": 75
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "3",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET",
+          "catalog_number": "L9444, 18 LEVER, L ESCUTCHEON, 10-072 STRIKE",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "PRIVACY FUNCTION (\"OCCUPIED\") W/ DEADBOLT & COIN TURN",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "DEADBOLT MONITOR",
+          "catalog_number": "DEADBOLT MONITOR",
+          "mfr": "SCHLAGE",
+          "finish": null,
+          "notes": "COORDINATE W/ LOCKSET, ELECTRIC STRIKE & AUTO OPERATOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": null,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "AUTO OPERATOR",
+          "catalog_number": "SW100 W/ WAVE TO OPEN ACUATORS",
+          "mfr": "ASSA ABLOY",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": "COORDINATE W/ DEADBOLT MONITOR & ELECTRIC STRIKE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "ELECTRIC STRIKE",
+          "catalog_number": "6200 SERIES",
+          "mfr": "VON DUPRIN",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "COORDINATE W/ DEADBOLT MONITOR & AUTO OPERATOR",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "SEE PLANS FOR WALL CONSTRUCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "PROTECTION PLATE",
+          "catalog_number": "8400 KICK & MOP PLATE",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        }
+      ],
+      "confidence": 0.919
+    },
+    {
+      "set_number": "8.2",
+      "description": "MULTI-USER / RESTROOM / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 17,
+            "bbox": {
+              "x0": 0.08590963240393339,
+              "y0": 0.7119732556939405,
+              "x1": 0.7876232093392715,
+              "y1": 0.7585066820939406
+            },
+            "line_start": 76,
+            "line_end": 81
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "3",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "OFFSET PULL",
+          "catalog_number": "9264-72-56-FLAT TIP",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "72\" LENGTH",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "AUTO OPERATOR",
+          "catalog_number": "SW100 W/ WAVE TO OPEN ACUATORS",
+          "mfr": "ASSA ABLOY",
+          "finish": "691 (LIGHT BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": "1",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "SEE PLANS FOR WALL CONSTRUCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "2",
+          "description": "PROTECTION PLATE",
+          "catalog_number": "8400 KICK & MOP PLATE",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": null,
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": null
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        }
+      ],
+      "confidence": 0.921
+    },
+    {
+      "set_number": "8.3",
+      "description": "WELLNESS / SINGLE DOOR",
+      "status": "active",
+      "location": {
+        "regions": [
+          {
+            "page": 17,
+            "bbox": {
+              "x0": 0.08590897925164669,
+              "y0": 0.7708370097848496,
+              "x1": 0.8702673449386145,
+              "y1": 0.8013097980030315
+            },
+            "line_start": 82,
+            "line_end": 85
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": "3",
+          "description": "MORTISE HINGE",
+          "catalog_number": "5BB1 4.5\" x 4.5\"",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "FULL MORTISE, FIVE KNUCKLE BB HINGE",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "MORTISE LOCKSET",
+          "catalog_number": "L9444, 18 LEVER, L ESCUTCHEON, 10-072 STRIKE",
+          "mfr": "SCHLAGE",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "PRIVACY FUNCTION (\"OCCUPIED\") W/ DEADBOLT & COIN TURN",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": "1",
+          "description": "WALL STOP",
+          "catalog_number": "WS401/402CCV",
+          "mfr": "IVES",
+          "finish": "613 (OIL RUBBED BRONZE)",
+          "notes": "SEE PLANS FOR WALL CONSTRUCTION",
+          "confidence": {
+            "qty": 0.96,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        },
+        {
+          "qty": null,
+          "description": "SILENCERS",
+          "catalog_number": "SILENCER SI6X",
+          "mfr": "IVES",
+          "finish": "BLACK",
+          "notes": "CONTRACTOR TO CONFIRM QUANTITIES",
+          "confidence": {
+            "qty": null,
+            "description": 0.93,
+            "catalog_number": 0.91,
+            "mfr": 0.93,
+            "finish": 0.93,
+            "notes": 0.8500000000000001
+          }
+        }
+      ],
+      "confidence": 0.917
+    }
+  ],
+  "warnings": []
+}

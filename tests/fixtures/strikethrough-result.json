@@ -1,0 +1,49 @@
+{
+  "source_file": "anonymous-spec.pdf",
+  "selected_pages": [2],
+  "backend": "heuristic",
+  "outcome": "extracted",
+  "sets": [
+    {
+      "set_number": "3A",
+      "description": "ENTRY",
+      "status": "active",
+      "strikethrough": {
+        "description": [{"start": 0, "end": 5}]
+      },
+      "location": {
+        "regions": [
+          {
+            "page": 2,
+            "bbox": {"x0": 0.1, "y0": 0.2, "x1": 0.8, "y1": 0.9},
+            "line_start": 4,
+            "line_end": 9
+          }
+        ]
+      },
+      "components": [
+        {
+          "qty": null,
+          "description": "Hinge",
+          "catalog_number": "T4A3386 NRP",
+          "mfr": "MK",
+          "finish": "US26D",
+          "notes": null,
+          "strikethrough": {
+            "catalog_number": [{"start": 8, "end": 11}]
+          },
+          "confidence": {
+            "qty": null,
+            "description": 0.9,
+            "catalog_number": 0.88,
+            "mfr": 0.94,
+            "finish": 0.94,
+            "notes": null
+          }
+        }
+      ],
+      "confidence": 0.91
+    }
+  ],
+  "warnings": []
+}

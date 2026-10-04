@@ -1,0 +1,48 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fresco-hardware-sets"
+version = "0.1.0"
+description = "Extract structured door hardware sets from selected specification pages."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "pydantic>=2.10,<3",
+  "pymupdf>=1.25,<2",
+]
+
+[project.optional-dependencies]
+openai = ["openai>=2.26,<3"]
+ui = ["streamlit>=1.44,<2", "pillow>=11,<13"]
+dev = [
+  "openai>=2.26,<3",
+  "pytest>=8.3,<9",
+  "ruff>=0.11,<1",
+]
+all = [
+  "openai>=2.26,<3",
+  "streamlit>=1.44,<2",
+  "pillow>=11,<13",
+  "pytest>=8.3,<9",
+  "ruff>=0.11,<1",
+]
+
+[project.scripts]
+hardware-sets = "hardware_sets.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/hardware_sets"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
